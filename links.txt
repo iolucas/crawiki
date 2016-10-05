@@ -1,0 +1,776 @@
+﻿ActiveMQ
+Address Resolution Protocol
+Advanced Message Queuing Protocol
+Amazon Web Services
+Andy Stanford-Clark
+Application layer
+Border Gateway Protocol
+Broker (service-oriented architecture)
+Constrained Application Protocol
+Datagram Congestion Control Protocol
+Digital subscriber line
+Domain Name System
+Dynamic Host Configuration Protocol
+EVRYTHNG
+Emqttd
+Ethernet
+Explicit Congestion Notification
+Facebook Messenger
+Fiber Distributed Data Interface
+File Transfer Protocol
+HiveMQ
+Hypertext Transfer Protocol
+IBM MessageSight
+ICMPv6
+IPsec
+IPv4
+IPv6
+Integrated Services Digital Network
+Internet Control Message Protocol
+Internet Group Management Protocol
+Internet Message Access Protocol
+Internet Protocol
+Internet layer
+Internet protocol suite
+JoramMQ
+Layer 2 Tunneling Protocol
+Lightweight Directory Access Protocol
+Link layer
+Machine to machine
+Media Gateway Control Protocol
+Media access control
+Message broker
+Message queuing
+Messaging pattern
+Neighbor Discovery Protocol
+Network News Transfer Protocol
+Network Time Protocol
+OASIS (organization)
+Open Geospatial Consortium
+Open Network Computing Remote Procedure Call
+Open Shortest Path First
+Point-to-Point Protocol
+Post Office Protocol
+Publish–subscribe pattern
+RabbitMQ
+Real-time Transport Protocol
+Real Time Streaming Protocol
+Resource Reservation Protocol
+Routing Information Protocol
+Secure Shell
+SensorThings API
+Session Initiation Protocol
+Simple Mail Transfer Protocol
+Simple Network Management Protocol
+Solace Systems
+Stream Control Transmission Protocol
+TCP/IP
+Telnet
+Transmission Control Protocol
+Transport Layer Security
+Transport layer
+Tunneling protocol
+User Datagram Protocol
+XMPP
+ZigBee
+Template:IPstack
+Template talk:IPstack
+Category:Application layer protocols
+Category:Internet layer protocols
+Category:Link protocols
+Category:Transport layer protocols
+ActiveMQ
+Address Resolution Protocol
+Advanced Message Queuing Protocol
+Amazon Web Services
+Andy Stanford-Clark
+Application layer
+Border Gateway Protocol
+Broker (service-oriented architecture)
+Constrained Application Protocol
+Datagram Congestion Control Protocol
+Digital subscriber line
+Domain Name System
+Dynamic Host Configuration Protocol
+EVRYTHNG
+Emqttd
+Ethernet
+Explicit Congestion Notification
+Facebook Messenger
+Fiber Distributed Data Interface
+File Transfer Protocol
+HiveMQ
+Hypertext Transfer Protocol
+IBM MessageSight
+ICMPv6
+IPsec
+IPv4
+IPv6
+Integrated Services Digital Network
+Internet Control Message Protocol
+Internet Group Management Protocol
+Internet Message Access Protocol
+Internet Protocol
+Internet layer
+Internet protocol suite
+JoramMQ
+Layer 2 Tunneling Protocol
+Lightweight Directory Access Protocol
+Link layer
+Machine to machine
+Media Gateway Control Protocol
+Media access control
+Message broker
+Message queuing
+Messaging pattern
+Neighbor Discovery Protocol
+Network News Transfer Protocol
+Network Time Protocol
+OASIS (organization)
+Open Geospatial Consortium
+Open Network Computing Remote Procedure Call
+Open Shortest Path First
+Point-to-Point Protocol
+Post Office Protocol
+Publish–subscribe pattern
+RabbitMQ
+Real-time Transport Protocol
+Real Time Streaming Protocol
+Resource Reservation Protocol
+Routing Information Protocol
+Secure Shell
+SensorThings API
+Session Initiation Protocol
+Simple Mail Transfer Protocol
+Simple Network Management Protocol
+Solace Systems
+Stream Control Transmission Protocol
+TCP/IP
+Telnet
+Transmission Control Protocol
+Transport Layer Security
+Transport layer
+Tunneling protocol
+User Datagram Protocol
+XMPP
+ZigBee
+Template:IPstack
+Template talk:IPstack
+Category:Application layer protocols
+Category:Internet layer protocols
+Category:Link protocols
+Category:Transport layer protocols
+2dF Galaxy Redshift Survey
+A priori and a posteriori
+Aage Bohr
+Aarau
+Aargau
+Abba Eban
+Abdominal aortic aneurysm
+Abdus Salam
+Absent-minded professor
+Absorption refrigerator
+Action-angle variables
+Adam Riess
+Adiabatic invariant
+Adolf Hitler
+Aether theories
+African-American Civil Rights Movement (1896–1954)
+Age of the universe
+Agnosticism
+Alan Guth
+Albert A. Michelson
+Albert Einstein's brain
+Albert Einstein's political views
+Albert Einstein's religious views
+Albert Einstein (disambiguation)
+Albert Einstein Award
+Albert Einstein House
+Albert Einstein Medal
+Albert Einstein Peace Prize
+Albert Einstein World Award of Science
+Albert Einstein in popular culture
+Albert Fert
+Alchemy
+Alexander Friedmann
+Alexander Prokhorov
+Alexei Alexeyevich Abrikosov
+Alexis de Tocqueville
+Alfred Einstein
+Alfred Kastler
+Alfred Kleiner
+Alfred Nobel
+Alfred North Whitehead
+Alfred Russel Wallace
+Allies of World War II
+Alma mater
+Alternating current
+American citizen
+Analytic–synthetic distinction
+Andre Geim
+Annalen der Physik
+Annus Mirabilis papers
+Annus mirabilis
+Anthony James Leggett
+Anti-realism
+Antony Hewish
+Antwerp
+ArXiv
+Archibald Hill
+Aristotle
+Arno Allan Penzias
+Arnold Sommerfeld
+Arthur B. McDonald
+Arthur Compton
+Arthur Eddington
+Arthur Evans
+Arthur Leonard Schawlow
+Arthur Schuster
+Arthur Stanley Eddington
+Ashkenazi Jews
+Aspect experiment
+Astrophysics
+Atheist
+Atom
+Atomic bombings of Hiroshima and Nagasaki
+Atomic theory
+Auguste Comte
+Austen Chamberlain
+Austria
+Austria-Hungary
+Austro-Hungarian Empire
+Averroes
+Avicenna
+BBC
+BBC News
+BIBSYS
+BOOMERanG experiment
+Baer's law
+Barnard Medal for Meritorious Service to Science
+Bas van Fraassen
+Beethoven
+Belgian Royal Family
+Bell's theorem
+Ben Roy Mottelson
+Berlin
+Bern
+Berne
+Bernhard Caesar Einstein
+Bertram Brockhouse
+Bertrand Russell
+Bibcode
+Biblioteca Nacional de España
+Bibliothèque nationale de France
+Big Bang
+Big Bang nucleosynthesis
+Biographical Memoirs of Fellows of the Royal Society
+Black holes
+Blackbody radiation
+Bohr–Einstein debates
+Bose–Einstein condensate
+Bose–Einstein correlations
+Bose–Einstein statistics
+Boson
+Brandeis University
+Brian Josephson
+Brian Schmidt
+British Mandate for Palestine
+Brownian motion
+Bruria Kaufman
+Burton Richter
+C. F. Powell
+C. V. Raman
+California Institute of Technology
+Caltech
+Canton of Aargau
+Capillary attraction
+Carl David Anderson
+Carl Gustav Hempel
+Carl Laemmle
+Carl Wieman
+Carlo Rubbia
+Catholic school
+Causality
+Ceylon
+Chaim Weizmann
+Chain reaction
+Chamber music
+Charles-Ferdinand University
+Charles Algernon Parsons
+Charles Glover Barkla
+Charles H. Townes
+Charles K. Kao
+Charles Sanders Peirce
+Charles Scott Sherrington
+Charles Thomson Rees Wilson
+Charles University in Prague
+Charles Édouard Guillaume
+Charlie Chaplin
+Chen-Ning Yang
+Chinatown, Manhattan
+Christ Church, Oxford
+Chronology of the universe
+Citizenship in the United States
+City Lights
+Classical mechanics
+Classical unified field theories
+Claude Cohen-Tannoudji
+Clifford Shull
+Clinton Davisson
+Coherentism
+Columbia University
+Commensurability (philosophy of science)
+Compton scattering
+Confirmation holism
+Conscription in Germany
+Conscription in Switzerland
+Consilience
+Construct (philosophy)
+Constructive empiricism
+Constructive realism
+Constructivist epistemology
+Contextualism
+Continuum mechanics
+Conventionalism
+Copenhagen interpretation
+Copley Medal
+Corbis
+Cormac O'Raifeartaigh
+Cosmic Background Explorer
+Cosmic microwave background
+Cosmic neutrino background
+Cosmological constant
+Cosmology
+Creative synthesis
+Cremation
+Critical opalescence
+Criticism of science
+Curvature
+DMOZ
+Daniel C. Tsui
+Daniel Dennett
+Dark energy
+Dark fluid
+Dark matter
+David Ben-Gurion
+David Gross
+David Hume
+David J. Wineland
+David Lee (physicist)
+David Lloyd George
+Deductive-nomological model
+Demarcation problem
+Democracy in America
+Dennis Gabor
+Dennis Overbye
+Determinism
+Digital object identifier
+Direct current
+Discovery of cosmic microwave background radiation
+Dmitri Mendeleev
+Doctoral advisor
+Dominicus Gundissalinus
+Donald A. Glaser
+Douglas Osheroff
+E. T. Whittaker
+EPR paradox
+ETH
+ETHZ
+ETH Zurich
+Edgar Adrian
+Eduard Einstein
+Eduard Suess
+Edward Albert Sharpey-Schafer
+Edward Mills Purcell
+Edward Teller
+Edward Victor Appleton
+Edwin Hubble
+Einstein
+Einstein's awards and honors
+Einstein's unsuccessful investigations
+Einstein (disambiguation)
+Einstein Papers Project
+Einstein Prize (APS)
+Einstein Prize for Laser Science
+Einstein equations
+Einstein family
+Einstein field equations
+Einstein notation
+Einstein radius
+Einstein refrigerator
+Einstein relation (kinetic theory)
+Einstein solid
+Einsteinium
+Einstein–Cartan theory
+Einstein–Infeld–Hoffmann equations
+Einstein–Szilárd letter
+Einstein–de Haas effect
+Electrical engineering
+Electrodynamics
+Electrolux
+Electromagnetic field
+Elsa Einstein
+Elsa Löwenthal
+Emilio G. Segrè
+Empirical evidence
+Empiricism
+Enrico Fermi
+Epicureanism
+Epistemological anarchism
+Epistemology
+Equivalence principle
+Eric Allin Cornell
+Ernest Lawrence
+Ernest Rutherford
+Ernest Walton
+Ernst G. Straus
+Ernst Mach
+Ernst Ruska
+Erwin Schrödinger
+Eugene Wigner
+Evelyn Einstein
+Evgeny Lifshitz
+Explanatory power
+Ezriel Carlebach
+Fact
+Faith and rationality
+Fallibilism
+Falsifiability
+Farrar, Straus and Giroux
+Felix Bloch
+Felix Klein
+Feminist method
+First observation of gravitational waves
+ForMemRS
+Force
+Foundationalism
+Francis Bacon
+Francis Galton
+Frank Wilczek
+Franklin D. Roosevelt
+François Englert
+Frederick Gowland Hopkins
+Frederick Lindemann, 1st Viscount Cherwell
+Frederick Reines
+Free State of Prussia
+Free fall
+Friedmann equations
+Friedmann–Lemaître–Robertson–Walker metric
+Friedrich Wilhelm Joseph Schelling
+Frits Zernike
+Future of an expanding universe
+G. H. Hardy
+G. I. Taylor
+Gabriel Lippmann
+Galaxy filament
+Galaxy formation and evolution
+Galileo Galilei
+Gauge invariance
+Gauge symmetry
+General covariance
+General relativity
+General theory of relativity
+Genius
+Geodesic equation
+Georg Bednorz
+George Darwin
+George E. Smith
+George Ellery Hale
+George F. R. Ellis
+George Gamow
+George Mason University
+George Paget Thomson
+George Smoot
+George William Hill
+George de Hevesy
+Georges Charpak
+Georges Lemaître
+Gerald Holton
+Gerard 't Hooft
+Gerd Binnig
+German Empire
+German Physical Society
+German Student Union
+German citizenship
+German culture
+German nuclear energy project
+Gilbert N. Lewis
+Gravitational fields
+Gravitational lens
+Gravitational lensing
+Gravitational red shift
+Gravitational time dilation
+Gravitational wave
+Gravitational wave background
+Gravitational waves
+Guglielmo Marconi
+Gustaf Dalén
+Gustav Ludwig Hertz
+Gymnasium (school)
+Hamilton–Jacobi equation
+Hannes Alfvén
+Hans Albert Einstein
+Hans Bethe
+Hans Georg Dehmelt
+Hans Reichenbach
+Hanukkah
+Harry Emerson Fosdick
+Hebrew University of Jerusalem
+Heike Kamerlingh Onnes
+Heinrich Burkhardt
+Heinrich Friedrich Weber
+Heinrich Rohrer
+Hendrik Lorentz
+Henri Becquerel
+Henri Poincaré
+Henry Hallett Dale
+Henry Way Kendall
+Herbert Kroemer
+Herbert Spencer
+Hermann Einstein
+Hermann Minkowski
+Hideki Yukawa
+Hiroshi Amano
+Historical Dictionary of Switzerland
+Historical Museum of Bern
+History News Network
+History and philosophy of science
+History of evolutionary thought
+History of general relativity
+History of gravitational theory
+History of physics
+History of science
+History of special relativity
+History of the Big Bang theory
+Hitler Youth
+Hole argument
+Hollywood
+Horace Lamb
+Horace Tabberer Brown
+Horst Ludwig Störmer
+Hubble's law
+Hugh David Politzer
+Hugh of Saint Victor
+Human intelligence
+Humboldt University of Berlin
+Hypothetico-deductive model
+Ian Hacking
+Ideal gas
+Ignoramus et ignorabimus
+Igor Tamm
+Illustris project
+Ilya Frank
+Immanuel Kant
+Imre Lakatos
+Index of philosophy of science articles
+Inductionism
+Inductive reasoning
+Inflation (cosmology)
+Inquiry
+Institute for Advanced Study
+Instrumentalism
+Integrated Authority File
+Internal bleeding
+International Standard Book Number
+International Standard Name Identifier
+International Standard Serial Number
+Internet Archive
+Interpretations of quantum mechanics
+Intertheoretic reduction
+Introduction to quantum mechanics
+Introduction to special relativity
+Isaac Newton
+Isamu Akasaki
+Isidor Isaac Rabi
+Istituto Centrale per il Catalogo Unico
+Italy
+Ivan Pavlov
+Ivar Giaever
+J. Hans D. Jensen
+J. J. Thomson
+J. Robert Oppenheimer
+JILA
+JSTOR
+Jack Kilby
+Jack Steinberger
+James Chadwick
+James Cronin
+James Dewar
+James Franck
+James Rainwater
+Japan
+Jean Baptiste Perrin
+Jerome Isaac Friedman
+Jewish people
+Jewish quota
+Jimmy Walker
+Johannes Diderik van der Waals
+Johannes Stark
+John Bardeen
+John C. Mather
+John C. Wells
+John Cockcroft
+John Francis Hylan
+John Hasbrouck Van Vleck
+John L. Hall
+John Robert Schrieffer
+John Scott Haldane
+John Stachel
+John Stuart Mill
+John William Strutt, 3rd Baron Rayleigh
+John von Neumann
+Johns Hopkins University Press
+Joseph Barcroft
+Joseph Goebbels
+Joseph Hooton Taylor, Jr.
+Joseph Larmor
+Joseph Lister, 1st Baron Lister
+Josiah Willard Gibbs
+Juilliard Quartet
+Julian Schwinger
+Jürgen Ehlers
+Jürgen Habermas
+K. Alex Müller
+Kai Siegbahn
+Kaiser Wilhelm Institute
+Kaiser Wilhelm Institute for Physics
+Karl-Ferdinands-Universität
+Karl Ferdinand Braun
+Karl Pearson
+Karl Popper
+Kenneth G. Wilson
+King's College London
+Kingdom of Prussia
+Kingdom of Württemberg
+Klaus von Klitzing
+Konstantin Novoselov
+Kurt Gödel
+Köchel catalogue
+LIBRIS
+LIGO
+Lagrangian (field theory)
+Lambda-CDM model
+Langston Hughes
+Large quasar group
+Larry Laudan
+Laser
+Leiden University
+Length contraction
+Leo Esaki
+Leon Botstein
+Leon Cooper
+Leon M. Lederman
+Albert Einstein
+Alfred Schild
+Alma mater
+Andrzej Trautman
+Austria–Hungary
+Austro-Hungarian Empire
+Bibcode
+Bibliothèque nationale de France
+Born–Infeld model
+Born–Infeld theory
+Cambridge University
+Canada
+Canadian citizenship
+Communist Poland
+Dictionary of Scientific Biography
+Digital object identifier
+Edmund F. Robertson
+Einstein–Infeld–Hoffmann equations
+First use of nuclear weapons
+History of Jews in Poland
+Infeld–Hull factorization method
+Integrated Authority File
+International Standard Book Number
+International Standard Name Identifier
+Jagiellonian University
+John J. O'Connor (mathematician)
+Kraków
+Library of Congress Control Number
+MacTutor History of Mathematics archive
+Mathematics Genealogy Project
+Max Born
+National Diet Library
+National Library of the Czech Republic
+Nobel Prize
+Nuclear weapons
+Nuclear weapons research
+P. R. Wallace
+Peace activist
+People's Republic of Poland
+Peter Bergmann
+Physicist
+Physics
+Poland
+Polish Academy of Sciences
+Princeton University
+Professor emeritus
+Russell–Einstein Manifesto
+Schrödinger equation
+Système universitaire de documentation
+The Evolution of Physics
+Theory of relativity
+United Kingdom
+United States
+University of Cambridge
+University of Lwów
+University of St Andrews
+University of Toronto
+University of Warsaw
+Virtual International Authority File
+Warsaw
+World War II
+Évariste Galois
+Help:Authority control
+Category:Use dmy dates from October 2011
+00 (disambiguation)
+0 (number)
+0 (year)
+0° (disambiguation)
+Cero (TV channel)
+Empty set
+Null (disambiguation)
+O
+Phi
+Sid Wilson
+Slashed zero
+Theta
+Year Zero (disambiguation)
+Zero (disambiguation)
+Zero sharp
+Ø
+Ø (disambiguation)
+⌀
+Talk:0
+Help:Disambiguation
+2013 New Brunswick python attack
+Armstrong Siddeley Python
+Boa vs. Python
+CMU Common Lisp
+CPython
+Colt Python
+Cython
+HMS Python
+Monty Python
+New Alcatraz
+PERQ
+Python (Busch Gardens Tampa Bay)
+Python (Coney Island, Cincinnati, Ohio)
+Python (Efteling)
+Python (Ford prototype)
+Python (automobile maker)
+Python (film)
+Python (genus)
+Python (missile)
+Python (mythology)
+Python (programming language)
+Python of Aenus
+Python of Byzantium
+Python of Catana
+Pythonidae
+Pythons 2
+Pyton
+Wolseley Python
+Talk:Python
+Help:Disambiguation
